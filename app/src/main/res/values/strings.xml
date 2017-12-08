@@ -1,0 +1,78 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">IPA TERPADU</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_fisika">Fisika</string>
+
+    <string name="question1f">1. Besaran di bawah ini yang termasuk besaran pokok adalah ....</string>
+    <string name="question1_choice1f">A. Panjang, Gaya, Berat</string>
+    <string name="question1_choice2f">B. Panjang, Luas, Volume</string>
+    <string name="question1_choice3f">C. Panjang, Massa, Kecepatan</string>
+
+    <string name="question2f">2. Alat untuk mengukur panjang adalah .......</string>
+    <string name="question2_choice1f">A. Neraca</string>
+    <string name="question2_choice2f">B. Mistar</string>
+    <string name="question2_choice3f">C. Stopwatch</string>
+
+    <string name="question3f">3. Suatu logam aluminium mempunyai massa 120 gram dan volume 60 cm³ maka massa jenisnya adalah ........</string>
+    <string name="question3_choice1f">A. 2.000 gr/cm³</string>
+    <string name="question3_choice2f">B. 2 gr/cm³</string>
+    <string name="question3_choice3f">C. 20 gr/cm²</string>
+
+    <string name="question4f">4. Di bawah ini yang termasuk gerak lurus berubah beraturan adalah .....</string>
+    <string name="question4_choice1f">A. Buah kelapa yang jatuh dari pohon</string>
+    <string name="question4_choice2f">B. Mobil yang sedang parker</string>
+    <string name="question4_choice3f">C. Orang yang berlari tetap</string>
+
+    <string name="question5f">5. Bahan penghantar yang paling baik adalah ........</string>
+    <string name="question5_choice1f">A. Alumunium</string>
+    <string name="question5_choice2f">B. Raksa</string>
+    <string name="question5_choice3f">C. Besi</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_biologi">Biologi</string>
+
+    <string name="question1">1. Salah satu ciri makhluk hidup yang berfungsi untuk mencegah kepunahan adalah .....</string>
+    <string name="question1_choice1">A. Berkembang biak</string>
+    <string name="question1_choice2">B. Tumbuh</string>
+    <string name="question1_choice3">C. Bergerak</string>
+
+    <string name="question2">2. Tumbuhan yang mempunyai bunga dan biji adalah   ?</string>
+
+    <string name="question3">3. Kumpulan dari jaringan yang mempunyai fungsi yang sama akan membentuk ..</string>
+    <string name="question3_choice1">A. Sel</string>
+    <string name="question3_choice2">B. Organ</string>
+    <string name="question3_choice3">C. Organisme</string>
+
+    <string name="question4">4. Alat ekskresi yang berfungsi untuk menyaring darah dan mengeluarkan zat sisametabolisme dalam bentuk urine adalah?</string>
+
+    <string name="question5">5 Jaringan tumbuhan yang berfungsi mengangkut air dan garam mineral dari akar ke daun adalah ?</string>
+    <string name="question5_choice1">A. palisade</string>
+    <string name="question5_choice2">B. parenkim</string>
+    <string name="question5_choice3">C. floem</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_kimia">Bonus</string>
+
+    <string name="question6">1. Cumulus and Cirrus are types of what?</string>
+
+    <string name="question7">2. Which two planets have one or more moons?</string>
+    <string name="question7_choice1">Ceres</string>
+    <string name="question7_choice2">Mercury</string>
+    <string name="question7_choice3">Earth</string>
+    <string name="question7_choice4">Pluto</string>
+
+    <string name="question8">3. Where in the human body would you find the scaphoid bone?</string>
+
+    <string name="question9">4. Which grow upwards Stalactites or Stalagmites?</string>
+    <string name="question9_choice1">Stalactites</string>
+    <string name="question9_choice2">Stalagmites</string>
+
+    <string name="question10">5. What process involves heating an ore to obtain a metal?</string>
+
+
+    <string name="submit_answers">Submit Answers</string>
+
+</resources>
+
